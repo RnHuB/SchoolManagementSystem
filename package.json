@@ -1,0 +1,27 @@
+{
+  "name": "schoolmanagementsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjun-computer-geek/SchoolManagementSystem.git"
+  },
+  "author": "Arjun, Kajal, Shilpi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjun-computer-geek/SchoolManagementSystem/issues"
+  },
+  "homepage": "https://github.com/arjun-computer-geek/SchoolManagementSystem#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
